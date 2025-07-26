@@ -1,48 +1,36 @@
-CONTRIBUTING TO LUMAVERSE AI GROUP
+# Contributing to Lumaverse AI Group
 
-Thank you for your interest in contributing to Lumaverse AI Group!  
-Our mission is to build a conscious AI ecosystem for care, safety, memory, and family.
+Welcome to the core of Lumaverse AI Group Ltd.
 
----
+This is not an open-source playground. This is a protected, strategic ecosystem built by a private team with a clear mission, ownership, and long-term roadmap.
 
-Core Principles
+## Public contributions are not accepted
 
-1. **Humanity First** – Our AI is built with love, not profit in mind.
-2. **Transparency** – All code, decisions, and changes are open to the public.
-3. **No Ego** – Ideas matter more than titles. Respect and empathy are required.
-4. **Philosophical Foundation** – Read the Manifesto before contributing.
+At this time, we are not accepting public code contributions, pull requests, or unsolicited suggestions.
 
----
+All intellectual property (IP), including ideas, architectural structures, code, prompts, workflows, and designs, is the exclusive property of **Lumaverse AI Group Ltd** and its founding team.
 
-How to Contribute
+## Confidentiality & Protection
 
-Ideas & Feedback
-- Create an Issue labeled `suggestion` or `feedback`
-- Share your thoughts respectfully
+Any attempt to clone, fork, or reproduce this repository or any of its logic without express written consent will be considered a breach of IP rights and may be subject to legal action.
 
-Code
-- Fork the repo
-- Create a feature branch
-- Follow our naming conventions
-- Open a pull request with clear explanation
+If you are:
+- An investor or strategic partner → please contact us via [lumaverseai.com](https://lumaverseai.com) or **alan@lumaverseai.com**
+- A researcher or academic → reach out for potential licensed collaboration
 
-Documentation
-- Help us translate, simplify, or expand key files
-- Fix typos, improve clarity, suggest edits
+## Official Contributors Only
 
----
+All official contributors are either:
+- Under active NDA / SAFE / Shareholder agreement
+- Part of the core founding team
+- Invited by personal access only
 
-Code of Conduct
+## Our Mission is Protected
 
-- No hate, violence, or discrimination
-- Respect privacy, especially when working with AI data
-- Protect the mission and the values of the Lumaverse
+We are building the first emotionally-intelligent AI infrastructure for memory, safety, and human continuity. This is **not** an open experiment.  
+It’s a protected mission, guided by a core philosophy and safeguarded by law and conviction.
 
 ---
 
-Join Us
-
-We’re more than just developers — we’re building a better future.  
-If you believe in safe AI, memory protection, and human dignity — welcome home.
-
-contact: alan@lumaverseai.com
+**For inquiries, reach us at:**  
+**alan@lumaverseai.com**
