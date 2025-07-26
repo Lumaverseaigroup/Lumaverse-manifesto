@@ -9,7 +9,7 @@ Protected under the BLOODLINE Protocol
 Original Concept Date: 27 March 2024  
 Logged and timestamped via GitHub  
 Creator: Alan Koval  
-Contact: contact@lumaverseai.com
+Contact: alan@lumaverseai.com
 
 ---
 
