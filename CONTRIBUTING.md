@@ -1,36 +1,41 @@
-# Contributing to Lumaverse AI Group
+# Contribution Policy – Lumaverse AI Group
 
-Welcome to the core of Lumaverse AI Group Ltd.
+This repository is not open for public contributions.
 
-This is not an open-source playground. This is a protected, strategic ecosystem built by a private team with a clear mission, ownership, and long-term roadmap.
+All technologies, concepts, and systems published here are proprietary and developed under the internal guidance of Lumaverse AI Group Ltd and its founder Alan Koval.
 
-## Public contributions are not accepted
-
-At this time, we are not accepting public code contributions, pull requests, or unsolicited suggestions.
-
-All intellectual property (IP), including ideas, architectural structures, code, prompts, workflows, and designs, is the exclusive property of **Lumaverse AI Group Ltd** and its founding team.
-
-## Confidentiality & Protection
-
-Any attempt to clone, fork, or reproduce this repository or any of its logic without express written consent will be considered a breach of IP rights and may be subject to legal action.
+## How to Get Involved
 
 If you are:
-- An investor or strategic partner → please contact us via [lumaverseai.com](https://lumaverseai.com) or **alan@lumaverseai.com**
-- A researcher or academic → reach out for potential licensed collaboration
+- an investor,
+- a strategic partner,
+- a medical or safety organization,
+- or an aligned individual with proven expertise,
 
-## Official Contributors Only
+...you may contact us directly to explore opportunities for collaboration.
 
-All official contributors are either:
-- Under active NDA / SAFE / Shareholder agreement
-- Part of the core founding team
-- Invited by personal access only
+We are building a high-trust ecosystem. Contributions are only accepted from verified, invited individuals or organizations with written approval.
 
-## Our Mission is Protected
+## Why This Matters
 
-We are building the first emotionally-intelligent AI infrastructure for memory, safety, and human continuity. This is **not** an open experiment.  
-It’s a protected mission, guided by a core philosophy and safeguarded by law and conviction.
+Lumaverse AI is not just another tech company.  
+We are building the digital safety net of the 21st century — AI systems that protect lives, preserve memory, and care for human dignity.
+
+We believe in:
+- Vision over volume.
+- Depth over noise.
+- Meaningful partnerships over casual pull requests.
+
+## Contact
+
+For collaboration inquiries, reach out to:
+
+**Alan Koval**  
+Founder, Lumaverse AI Group Ltd  
+📧 alan@lumaverseai.com  
+🌍 www.lumaverseai.com
 
 ---
 
-**For inquiries, reach us at:**  
-**alan@lumaverseai.com**
+Unauthorized forks, modifications, or derivatives are strictly prohibited.  
+All content is protected under the BLOODLINE Protocol.
