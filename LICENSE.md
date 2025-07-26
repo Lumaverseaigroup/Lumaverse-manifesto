@@ -1,23 +1,35 @@
-Proprietary License – All Rights Reserved
+# Proprietary License – All Rights Reserved
 
-This repository and all its contents, including but not limited to text, designs, concepts, system structures, and philosophical frameworks, are the intellectual property of **Alan Koval** and **Lumaverse AI Group Ltd**.
+This repository and all its contents — including but not limited to text, designs, concepts, system structures, user flows, naming conventions, and philosophical frameworks — are the exclusive intellectual property of Alan Koval and Lumaverse AI Group Ltd.
 
 Published for visibility and reference only.  
-No redistribution, reproduction, modification, or commercial use is permitted without **explicit written permission** from the author.
+No redistribution, reproduction, modification, reverse engineering, or commercial use is permitted without explicit written permission from the author.
 
-Protected under the BLOODLINE Protocol  
-Original Concept Date: 27 March 2024  
-Logged and timestamped via GitHub  
-Creator: Alan Koval  
-Contact: alan@lumaverseai.com
+The publication of this content on GitHub does not grant any license or usage rights.  
+Protected under international copyright law, digital timestamping, and the BLOODLINE Protocol.
+
+Any attempt to replicate, clone, or adapt the functionality, narrative, structure, or purpose of this work — partially or in full — will be considered a violation of intellectual property.
 
 ---
 
-Collaboration & Licensing
+## Collaboration & Licensing
 
-If you are interested in contributing, licensing, investing, or collaborating on this work, please reach out directly via email.
+If you are interested in contributing, licensing, investing, or collaborating on this work, please contact:
 
-We welcome aligned partners — but not silent imitators.
+**Alan Koval**  
+Founder, Lumaverse AI Group Ltd  
+Email: alan@lumaverseai.com
 
-> This is not open source.  
-> This is protected vision.
+We welcome aligned partners — but not silent imitators.  
+This is not open source.  
+This is protected vision.
+
+---
+
+## Legal Reference
+
+- Original Concept Date: 27 March 2024  
+- Logged and timestamped via GitHub commits  
+- Creator: Alan Koval  
+- Registered under: Lumaverse AI Group Ltd  
+- Internal designation: BLOODLINE Protocol  
