@@ -1,4 +1,4 @@
-# Proprietary License – All Rights Reserved
+Proprietary License – All Rights Reserved
 
 This repository and all its contents, including but not limited to text, designs, concepts, system structures, and philosophical frameworks, are the intellectual property of **Alan Koval** and **Lumaverse AI Group Ltd**.
 
@@ -13,7 +13,7 @@ Contact: contact@lumaverseai.com
 
 ---
 
-## Collaboration & Licensing
+Collaboration & Licensing
 
 If you are interested in contributing, licensing, investing, or collaborating on this work, please reach out directly via email.
 
