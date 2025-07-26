@@ -140,3 +140,9 @@ Let’s build the infrastructure that should have existed yesterday.
 If we succeed, every human will have a voice, a lifeline, and a legacy.
 
 **Together — let’s light the LUMAVERSE.**
+
+---
+
+📅 **Original Concept Date:** March 2024  
+✍️ Conceived by: Alan Koval  
+🔒 This idea, structure, and philosophy were first developed as part of the Lumaverse AI Group ecosystem.
